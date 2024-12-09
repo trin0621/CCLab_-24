@@ -23,4 +23,69 @@ h3{
     width: 450px;
     height: 300px;
     margin-top: 120px;
-    marg
+    margin-left: 50px;
+}
+
+.relative-div-xmas-photo-1 {
+    background-color: aquamarine;
+    width: 250px;
+    height: 250px;
+    margin-top: -290px;
+    margin-left: 560px;
+}
+
+.relative-div-xmas-photo-2 {
+    background-color: aquamarine;
+    width: 250px;
+    height: 250px;
+    margin-top: -270px;
+    margin-left: 845px;
+}
+
+.relative-div-xmas-photo-3 {
+    background-color: aquamarine;
+    width: 250px;
+    height: 250px;
+    margin-top: -268px;
+    margin-left: 1130px;
+}
+
+.static-div-treeheading {
+    background-color: lightyellow;
+    width: 600px;
+    height: 75px;
+    margin-top: 125px;
+    margin-left: 425px;
+}
+
+.relative-div-treesketch {
+    background-color: lightblue;
+    width: 1000px;
+    height: 600px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.static-div-filterheading {
+    background-color: lightyellow;
+    width: 600px;
+    height: 75px;
+    margin-top: 100px;
+    margin-left: 425px;
+}
+
+.relative-div-filterdesript {
+    background-color: lightseagreen;
+    width: 350px;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.relative-div-filter {
+    background-color: lightpink;
+    width: 800px;
+    height: 450px;
+    margin-top: -425px;
+    margin-left: 550px;
+}
